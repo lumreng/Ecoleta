@@ -1,0 +1,27 @@
+:root {
+    --title-color: #322153; /* chama essa cor desse nome, ai só referenciar pelo nome e nao pela cor, se mudar a cor aqui, muda em todo o código*/
+    --primary-color: #34cb79
+}
+
+* {
+    margin: 0; /* zera a margem em TUDOs os seletores, por isto o asterisco, pois o navegador ja tem algums margens padrões*/
+    padding: 0; /**/
+    box-sizing: border-box; /* conta o tamanho da caixa contando as bordas*/
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none; /* para tirar o sublinhado dos links de todos os a's do código*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
