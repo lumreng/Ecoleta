@@ -1,4 +1,4 @@
-# Ecoleta - Next Level Week
+![](/public/assets/logo.svg)
 
 O site foi produzido durante um evento online chamado "Next Level Week", produzido pela Rocketseat.
 As aulas eram divulgadas nas manhãs dos dias 01/06/2020 até 05/06/2020, e eram administradas pelo Mayk Brito, onde foram abordados
