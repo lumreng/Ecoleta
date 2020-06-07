@@ -14,3 +14,11 @@ Resumo da semana:
 
 - Por fim, as últimas aulas falaram sobre o back-end, ensinando a usar o JS para armazenar e atualizar dados dos futuros usuários da
 página, tópicos introdutórios sobre banco de dados com o SQLite e até criar um servidor local com node.js! Tudo para que o site seja uma aplicação mais real possível.
+
+Página home/principal
+
+![](https://github.com/lumreng/Ecoleta/blob/master/P%C3%A1gina%20Home.jpg?raw=true)
+
+Página do cadastro do ponto de coleta
+
+![](https://github.com/lumreng/Ecoleta/blob/master/P%C3%A1gina%20de%20cadastro.jpg?raw=true)
